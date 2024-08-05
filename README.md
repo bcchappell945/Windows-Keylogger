@@ -2,7 +2,7 @@
 This is a Python script that is a keylogger for Windows systems! This was made as part of TCM Security's Python 201 for Hackers course!
 
 # Purpose
-This tool is used to create activate a keylogger on a Windows target. Some slight modification can be made for sending the logged keystrokes to a file or a webhook!
+This tool creates and activates a keylogger on a Windows target. Some slight modifications can be made for sending the logged keystrokes to a file or a webhook!
 
 # Requirements
 The Windows machine that will run this code MUST be x64 architecture!
